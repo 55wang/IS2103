@@ -9,5 +9,5 @@ However, you have to be in nus school network in order to access this page.
 I would be glad that if my project can help you in any way, feel free to contact me via facebook.com/wangzhe.lynx or wangzhe.lynx@gmail.com
 
 Some screenshots of my website:
-![img1](https://raw.githubusercontent.com/55wang/IS2103/master/img/IMG_0836.JPG "Image 1")
-![img2](https://raw.githubusercontent.com/55wang/IS2103/master/img/IMG_0837.JPG "Image 2")
+![img1](img/img1.png "Image 1")
+![img2](img/img2.png "Image 2")
